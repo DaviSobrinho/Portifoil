@@ -1,8 +1,12 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: #020617; /* azul escuro / quase preto */
+}
+
+body {
+  background-color: var(--background);
+  color: white;
 }
 
 @theme inline {
@@ -19,8 +23,6 @@
   }
 }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+html {
+  scroll-behavior: smooth;
 }
