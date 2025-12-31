@@ -72,9 +72,10 @@ export default function AboutMe() {
                     </h3>
 
                     <p className="text-white/75 text-lg leading-relaxed mb-6">
-                        Olá, sou o Davi — desenvolvedor full stack apaixonado por construir produtos bem pensados,
-                        organizados e fáceis de evoluir. Gosto de entender o problema a fundo antes de escrever código,
-                        para garantir que cada decisão faça sentido tanto tecnicamente quanto para quem vai usar.
+                        Olá, sou o Davi — desenvolvedor full stack, graduado em análise e desenvolvimento de sistemas 
+                        e pós graduado em engenharia da qualidade de software, apaixonado por construir produtos bem pensados,
+                        organizados e escaláveis. Gosto de entender a necessidade do cliente e transformá-la em código útil,
+                        para garantir que cada decisão faça sentido tanto tecnicamente e para o cliente.
                     </p>
 
                     <p className="text-white/70 text-lg leading-relaxed mb-10">
