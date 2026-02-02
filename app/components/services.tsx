@@ -57,7 +57,7 @@ const services = [
 
 export default function Services() {
     return (
-        <section id="services" className="relative w-full  lg:px-0 pt-28 pb-32">
+        <section id="servicos" className="relative w-full  lg:px-0 pt-28 pb-32">
             {/* Fundo neon decorativo */}
             <div className="absolute inset-0 overflow-hidden pointer-events-none opacity-[0.35]">
                 <div
