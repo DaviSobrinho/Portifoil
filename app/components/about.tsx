@@ -72,7 +72,7 @@ export default function AboutMe() {
                     </h3>
 
                     <p className="text-white/75 text-lg leading-relaxed mb-6">
-                        Olá, sou o Davi — desenvolvedor full stack apaixonado por construir produtos bem pensados,
+                        Olá, sou o Davi, desenvolvedor full stack apaixonado por construir produtos bem pensados,
                         organizados e fáceis de evoluir. Gosto de entender o problema a fundo antes de escrever código,
                         para garantir que cada decisão faça sentido tanto tecnicamente quanto para quem vai usar.
                     </p>
@@ -81,8 +81,8 @@ export default function AboutMe() {
                         Tenho um perfil analítico e valorizo clareza, previsibilidade e simplicidade nas soluções.
                         Costumo trabalhar com responsabilidade sobre o todo: desde a ideia inicial até a entrega em
                         produção, sempre buscando equilíbrio entre qualidade, performance e experiência do usuário.
-                        Ao longo da minha trajetória, tive contato com diferentes contextos — sistemas, produtos, automações,
-                        bots e aplicações mobile — o que ampliou minha visão sobre arquitetura e tomada de decisão.
+                        Ao longo da minha trajetória, tive contato com diferentes contextos, sistemas, produtos, automações,
+                        bots e aplicações mobile, o que ampliou minha visão sobre arquitetura e tomada de decisão.
                     </p>
 
 

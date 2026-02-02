@@ -21,6 +21,10 @@ const techConfig: Record<
     "Next.js": { icon: Globe, color: "text-white" },
     "TypeScript": { icon: Code2, color: "text-blue-400" },
     "JavaScript": { icon: Code2, color: "text-yellow-300" },
+    "Python": { icon: Code2, color: "text-blue-300" },
+    "React": { icon: Globe, color: "text-cyan-400" },
+    "MongoDB": { icon: Database, color: "text-green-400" },
+    "Craco": { icon: Layers, color: "text-orange-300" },
     "Prisma": { icon: Database, color: "text-teal-300" },
     "Clerk": { icon: Sparkles, color: "text-pink-300" },
     "Inngest": { icon: Layers, color: "text-purple-300" },
@@ -46,6 +50,13 @@ export default function Projects() {
             tech: ["Next.js", "TypeScript", "Clerk", "Prisma", "Inngest", "Gemini AI API"],
             img: "/projects/sensai.png",
             link: "https://sensai-mu-six.vercel.app/"
+        },
+        {
+            title: "Pássaro de Presságio",
+            subtitle: "Site institucional da companhia de teatro com features customizadas e correções",
+            tech: ["React", "TypeScript", "JavaScript", "Python", "MongoDB", "Craco"],
+            img: "/projects/passaro.png",
+            link: "https://passarodepressagio.com/"
         },
         {
             title: "N3 Company",
