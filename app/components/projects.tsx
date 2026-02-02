@@ -53,7 +53,7 @@ export default function Projects() {
         },
         {
             title: "Pássaro de Presságio",
-            subtitle: "Site institucional da companhia de teatro com features customizadas e correções",
+            subtitle: "Site institucional da companhia de teatro Pássaro de Presságio com features customizadas",
             tech: ["React", "TypeScript", "JavaScript", "Python", "MongoDB", "Craco"],
             img: "/projects/passaro.png",
             link: "https://passarodepressagio.com/"
